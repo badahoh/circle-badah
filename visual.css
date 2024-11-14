@@ -1,0 +1,41 @@
+html {
+
+box-sizing: border-box;
+}
+*, *before, *after {
+    box-sizing: inherit;
+}
+body{
+    background-color: rgb(218, 153, 196);
+
+}
+
+div {
+    border:6px dotted rgb(4, 56, 14);
+    margin:10px;
+    background-color: rgb(173, 230, 173); 
+
+}
+
+.button {
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+}
+
+strong{
+    font-size: 90px;
+    color:rgb(218, 153, 196);
+}
+
+button{
+    background-color: rgb(218, 153, 196);
+    color: rgb(4, 56, 14);
+    border-style: dashed;
+    border: 2px;
+}
+
