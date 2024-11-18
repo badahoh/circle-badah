@@ -1,0 +1,77 @@
+html {
+
+    box-sizing: border-box;
+    }
+    *, *before, *after {
+        box-sizing: inherit;
+    }
+    body{ 
+
+        background-color: rgb(120, 161, 120);
+    } 
+
+    h1{ 
+        color: rgb(1, 58, 1);
+        text-align: center; 
+        font-size: 50px;
+        padding: 30px;
+    }
+
+    .grid{
+    /* display: flex  */
+     }
+        
+
+
+    a{
+        color: rgb(97, 56, 32); 
+        display: block; 
+        font-size: 35px;
+        text-align: center;
+        border: 3px dotted rgb(59, 88, 43);
+        width: 40%;
+        line-height: 50px;
+        padding: 20px;
+        margin: 0 auto 25px auto;
+    }
+
+
+.cloud-link{
+    color: lightgoldenrodyellow; 
+    display: block; 
+    font-size: 35px;
+    text-align: center;
+    background-color: rgb(74, 43, 15);
+    border-radius: 50%;
+    opacity: 100%;
+    width: 30%;
+    line-height: 50px;
+    padding: 30px;
+    margin: 0 auto 25px auto;
+}
+
+#button{
+    color:rgb(23, 77, 23);
+    background-color: rgb(255, 251, 175);
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    display: block; 
+
+}
+
+.active {
+    background: rgb(28, 67, 20);
+    
+}
+/* . is for class name 
+# is for id */
+
+.active a{
+    color: lightgoldenrodyellow;
+    border:3px dotted lightgoldenrodyellow;
+}
+
+/* .link-changed{
+
+} */
