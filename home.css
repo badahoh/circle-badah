@@ -51,8 +51,13 @@ html {
 }
 
 #button{
-    color:rgb(23, 77, 23);
+    color:rgb(3, 77, 3);
+    border-color: rgb(3, 77, 3);
     background-color: rgb(255, 251, 175);
+    border: 0px ;
+    border-radius: 60% ;
+    width: 25%;
+    padding: 40px;
     font-size: 20px;
     text-align: center;
     margin: 0 auto;
