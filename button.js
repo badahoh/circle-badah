@@ -6,6 +6,8 @@ let backgroundButton =document.getElementById("button");
 
    
     backgroundButton.addEventListener("click", function(event) {
+
+        // would add stuff to change with button here
         console.log("clicked!")
         document.body.classList.toggle("active")
     })
