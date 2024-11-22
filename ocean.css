@@ -66,8 +66,13 @@ html {
         background: rgb(130, 8, 8);
     }
 
-    .active a {
-        color:aliceblue;
-        font-size: 25px; 
-        border-radius: 50%;
+    .active h1 {
+        color:rgb(2, 0, 0);
+        font-size:25px;
+       
+    }
+
+    .active div{
+        color:rgb(43, 0, 0);
+        font-size:25px;
     }
