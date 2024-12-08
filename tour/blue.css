@@ -1,0 +1,89 @@
+html {
+
+    box-sizing: border-box;
+    }
+    *, *before, *after {
+        box-sizing: inherit;
+    }
+    body{ 
+
+        background-color: rgb(230, 246, 254);
+        
+    }  
+
+    h1{
+        text-align: center; 
+        color: rgb(4, 125, 155);
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 45px;
+        border: 3px dotted rgb(4, 125, 155);
+        width: 40%;
+        line-height: 50px;
+        padding: 20px;
+        margin: 0 auto 25px auto;
+    }
+
+    p{
+        text-align: center; 
+        color: rgb(4, 125, 155);
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 25px;
+        padding: 100px;
+        border: 3px dotted rgb(4, 125, 155);
+        width: 40%;
+        line-height: 50px;
+        padding: 50px;
+        margin: 0 auto 25px auto;
+    }
+    div{
+        text-align: center; 
+        color: rgb(4, 125, 155);
+        
+    }
+
+
+    #baby{
+        display: block; 
+        margin-left: auto;
+        margin-right: auto; 
+        width: 30%;
+    }
+
+    #bart{
+        display: block; 
+        margin-left: auto;
+        margin-right: auto; 
+        width: 30%;
+    }
+
+    #blue{
+        display: block; 
+        margin-left: auto;
+        margin-right: auto; 
+        width: 50%;
+    }
+
+    #school{
+        display: block; 
+        margin-left: auto;
+        margin-right: auto; 
+        width: 50%;
+    }
+
+    #who{
+        display: block; 
+        margin-left: auto;
+        margin-right: auto; 
+        width: 50%;
+    }
+a{  
+     font-size:40px;
+    background-color: rgb(4, 125, 155);
+    color:rgb(230, 246, 254);
+    border-radius: 50%;
+    opacity: 100%;
+    width: 30%;
+    line-height: 50px;
+    padding: 30px;
+    margin: 0 auto 25px auto;
+}

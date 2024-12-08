@@ -1,0 +1,89 @@
+html {
+
+    box-sizing: border-box;
+    }
+    *, *before, *after {
+        box-sizing: inherit;
+    }
+    body{ 
+
+        background-color: rgb(216, 217, 218);
+        
+    }  
+
+    h1{
+        text-align: center; 
+        color: rgb(84, 84, 84);
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 45px;
+        border: 3px dotted rgb(84, 84, 84);
+        width: 40%;
+        line-height: 50px;
+        padding: 20px;
+        margin: 0 auto 25px auto;
+    }
+
+    p{
+        text-align: center; 
+        color: rgb(84, 84, 84);
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 25px;
+        padding: 100px;
+        border: 3px dotted rgb(84, 84, 84);
+        width: 40%;
+        line-height: 50px;
+        padding: 50px;
+        margin: 0 auto 25px auto;
+    }
+    div{
+        text-align: center; 
+        color: rgb(84, 84, 84);
+        
+    }
+
+
+    #goblin{
+        display: block; 
+        margin-left: auto;
+        margin-right: auto; 
+        width: 30%;
+    }
+
+    #goblin2{
+        display: block; 
+        margin-left: auto;
+        margin-right: auto; 
+        width: 30%;
+    }
+
+    #goblin3{
+        display: block; 
+        margin-left: auto;
+        margin-right: auto; 
+        width: 50%;
+    }
+
+    #goblin1{
+        display: block; 
+        margin-left: auto;
+        margin-right: auto; 
+        width: 50%;
+    }
+
+    #leaf4{
+        display: block; 
+        margin-left: auto;
+        margin-right: auto; 
+        width: 50%;
+    }
+a{  
+     font-size:40px;
+    background-color: rgb(84, 84, 84);
+    color:rgb(216, 217, 218);
+    border-radius: 50%;
+    opacity: 100%;
+    width: 30%;
+    line-height: 50px;
+    padding: 30px;
+    margin: 0 auto 25px auto;
+}

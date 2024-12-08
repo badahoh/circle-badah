@@ -1,0 +1,82 @@
+html {
+
+    box-sizing: border-box;
+    }
+    *, *before, *after {
+        box-sizing: inherit;
+    }
+    body{ 
+
+        background-color: rgb(79, 178, 207);
+        
+    }  
+
+    h1{
+        text-align: center; 
+        color: rgd(4,4,33);
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 45px;
+        border: 3px dotted rgb(236, 238, 246);
+        width: 40%;
+        line-height: 50px;
+        padding: 20px;
+        margin: 0 auto 25px auto;
+    }
+
+    p{
+        text-align: center; 
+        color: rgd(4,4,33);
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 25px;
+        padding: 100px;
+        border: 3px dotted rgb(236, 238, 246);
+        width: 40%;
+        line-height: 50px;
+        padding: 50px;
+        margin: 0 auto 25px auto;
+    }
+    div{
+        text-align: center; 
+        color: rgb(4, 4, 33);
+        
+    }
+
+    #mola{
+        display: block; 
+        margin-left: auto;
+        margin-right: auto; 
+        width: 30%;
+    }
+
+    #info{
+        display: block; 
+        margin-left: auto;
+        margin-right: auto; 
+        width: 30%;
+    }
+
+    #kiss{
+        display: block; 
+        margin-left: auto;
+        margin-right: auto; 
+        width: 30%;
+    }
+
+    #sunfish{
+        display: block; 
+        margin-left: auto;
+        margin-right: auto; 
+        width: 30%;
+    } 
+
+    a{
+        font-size:40px;
+        background-color: rgb(13, 67, 80);
+        color:aliceblue;
+        border-radius: 50%;
+        opacity: 100%;
+        width: 30%;
+        line-height: 50px;
+        padding: 30px;
+        margin: 0 auto 25px auto;
+    }
